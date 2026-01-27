@@ -6,4 +6,4 @@ A product designed to prevent prolonged sitting, using a wearable waist sensor t
 ## Display Device  
 ![](images/Display%20device%20sketch.jpg)  
 ## System Architecture  
-![](images/System%20Architecture%201.png)  
+![](images/System%20Architecture%203.jpg)  
